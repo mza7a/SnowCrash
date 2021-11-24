@@ -67,6 +67,7 @@ Lets disass the main.
 	[...]
 ```
 
+I didn't paste the whole disassembly main cause it was too long. But you will notice that ft_des function was repeated 14 times, 14 levels ?
 It's like calling getflag for every level.
 Lets disass the ft_des and make a breakpoint at the end to see the flag.
 ```
