@@ -47,7 +47,7 @@ Non-debugging symbols:
 0x08048f7c  _fini
 ```
 
-Note that : ft_des is repeated 14 times, 14 levels ?
+Note that : ft_des.
 
 Lets disass the main.
 ```
