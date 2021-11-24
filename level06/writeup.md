@@ -1,4 +1,4 @@
-#SnowCrash Level06
+# SnowCrash Level06
 
 Note: This level made me go crazy. Since I sucked at php.
 

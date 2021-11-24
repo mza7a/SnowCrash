@@ -1,4 +1,4 @@
-#SnowCrash Level03
+# SnowCrash Level03
 
 In this level we have a binary file in the home directory.
 First of all we see what kind of file is this :

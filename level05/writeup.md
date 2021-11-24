@@ -1,4 +1,4 @@
-#SnowCrash Level05
+# SnowCrash Level05
 
 At first we find nothing at the home directory.
 After checking the enviroment variables, we find :

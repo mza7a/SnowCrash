@@ -1,4 +1,4 @@
-#Snowcrash Level00
+# Snowcrash Level00
 
 After booting the machine. The first thing I tried was a simple listing in the home:
 

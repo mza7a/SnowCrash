@@ -1,4 +1,4 @@
-#SnowCrash Level08
+# SnowCrash Level08
 
 Another binary, this time we have a token with it.
 Trying to read the token gave us permission denied.

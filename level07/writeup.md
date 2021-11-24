@@ -1,4 +1,4 @@
-#SnowCrash Level07
+# SnowCrash Level07
 
 We have a binary in our home directory.
 Tried to run it :
